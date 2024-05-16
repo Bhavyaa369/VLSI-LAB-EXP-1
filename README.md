@@ -27,6 +27,9 @@ STEP:6 Click the simulation to simulate the program and give the inputs and veri
 
 STEP:7 compare the output with truth table.
 
+# Logic Diagram :
+![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/ee17970c-3ac9-4603-881b-88e2825f41a4)
+
 # VERILOG CODE:
 
 module logic(a,b,andgate,orgate,xorgate,nandgate,norgate,xnorgate,notgate );
@@ -51,12 +54,12 @@ not(notgate,a);
 
 endmodule
 
-# Logic Diagram :
-![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/ee17970c-3ac9-4603-881b-88e2825f41a4)
-
 # OUTPUT:
 ![image](https://github.com/Bhavyaa369/VLSI-LAB-EXP-1/assets/161431563/6695f451-5dcf-4a42-84fc-c6f66f9237f2)
 
+# Logic Diagram :
+
+![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/0e1ecb96-0c25-4556-832b-aeeedfdfe7b9)
 # HALF ADDER:
 
 module HalfAdder(a,b,sum,carry);
@@ -70,15 +73,13 @@ xor (sum,a,b);
 and (carry,a,b);
 
 endmodule
-
-# Logic Diagram :
-
-![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/0e1ecb96-0c25-4556-832b-aeeedfdfe7b9)
-
 # OUTPUT:
 
 ![image](https://github.com/Bhavyaa369/VLSI-LAB-EXP-1/assets/161431563/c399e5c5-b675-4545-9e41-39f297c2cb86)
 
+# Logic Diagram :
+
+![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/9bb3964c-438f-469d-a3de-c1cca6f323fb)
 # FULL ADDER:
 
 module FA(a,b,cin,sum,cout);
@@ -100,14 +101,14 @@ xor g4(sum,w1,cin);
 or g5(cout,w2,w3);
 
 endmodule
-
-# Logic Diagram :
-
-![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/9bb3964c-438f-469d-a3de-c1cca6f323fb)
-
 # OUTPUT:
 
 ![image](https://github.com/Bhavyaa369/VLSI-LAB-EXP-1/assets/161431563/740bb786-d700-4bae-b7d8-a34cb7227d5b)
+
+# Logic Diagram:
+
+![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/731470b7-eb4e-49f8-8bb7-2994052a7184)
+
 # HALF SUBTRACTOR:
 
 module halfsubtractor(a,b,diff,borrow);
@@ -121,13 +122,14 @@ xor g1(diff,a,b);
 and g2(borrow,~a,b);
 
 endmodule
-# Logic Diagram:
-
-![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/731470b7-eb4e-49f8-8bb7-2994052a7184)
 
 # OUTPUT:
 
 ![image](https://github.com/Bhavyaa369/VLSI-LAB-EXP-1/assets/161431563/f84e1b77-76d3-4ebb-9664-f1796a74b47d)
+
+# Logic Diagram :
+![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/d66f874b-c1f2-44b3-a035-7149b56430c1)
+
 # FULL SUBTRACTOR:
 
 module full_sub(a,b,bin,diff,borrow);
@@ -150,12 +152,12 @@ and g5(w3,~w1,bin);
 
 endmodule
 
-# Logic Diagram :
-![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/d66f874b-c1f2-44b3-a035-7149b56430c1)
-
 # OUTPUT:
 
 ![image](https://github.com/Bhavyaa369/VLSI-LAB-EXP-1/assets/161431563/91d2bc36-c334-4a95-ab00-292baa0d50ab)
+
+# Logic Diagram :
+![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/7385a408-40a5-4203-8050-b72818622d79)
 
 # 8 BIT RIPPLE CARRY ADDER:
 
@@ -200,9 +202,6 @@ fa fa7(a[6],b[6],c6,sum[6],c7);
 fa fa8(a[7],b[7],c7,sum[7],cout);
 
 endmodule
-
-# Logic Diagram :
-![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/7385a408-40a5-4203-8050-b72818622d79)
 
 # OUTPUT:
 ![image](https://github.com/Bhavyaa369/VLSI-LAB-EXP-1/assets/161431563/05b86375-6110-4a13-b66a-1211f92633b2)
