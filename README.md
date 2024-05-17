@@ -44,11 +44,11 @@ endmodule
 ```
 OUTPUT WAVEFORM
 
-![image](https://github.com/kristipatishivani/VLSI-LAB-EXP-1/assets/161432255/a62e4538-0094-4126-b762-1a1fdc1e8931)
+![image](https://github.com/Bhavyaa369/VLSI-LAB-EXP-1/assets/161432255/a62e4538-0094-4126-b762-1a1fdc1e8931)
 
 HALF ADDER LOGIC DIAGRAM
 
-![image](https://github.com/kristipatishivani/VLSI-LAB-EXP-1/assets/161432255/8dbaa111-3916-4e39-bd03-852cd2d76982)
+![image](https://github.com/Bhavyaa369/VLSI-LAB-EXP-1/assets/161432255/8dbaa111-3916-4e39-bd03-852cd2d76982)
 
 VERILOG CODE
 ```
@@ -66,11 +66,11 @@ endmodule
 ```
 OUTPUT WAVEFORM
 
-![image](https://github.com/kristipatishivani/VLSI-LAB-EXP-1/assets/161432255/d325278a-9829-4e71-b638-70f7285a1dcd)
+![image](https://github.com/Bhavyaa369/VLSI-LAB-EXP-1/assets/161432255/d325278a-9829-4e71-b638-70f7285a1dcd)
 
 FULL ADDER LOGIC DIAGRAM
 
-![image](https://github.com/kristipatishivani/VLSI-LAB-EXP-1/assets/161432255/8713d8b5-e4b6-4c9d-a00b-41eae22c9a2c)
+![image](https://github.com/Bhavyaa369/VLSI-LAB-EXP-1/assets/161432255/8713d8b5-e4b6-4c9d-a00b-41eae22c9a2c)
 
 VERILOG CODE
 ```
@@ -96,11 +96,11 @@ endmodule
 ```
 OUTPUT WAVEFORM
 
-![image](https://github.com/kristipatishivani/VLSI-LAB-EXP-1/assets/161432255/5c2e8258-da0f-4afd-98eb-f56bd8c7ec30)
+![image](https://github.com/Bhavyaa369/VLSI-LAB-EXP-1/assets/161432255/5c2e8258-da0f-4afd-98eb-f56bd8c7ec30)
 
 HALF SUBTRACTOR LOGIC DIAGRAM
 
-![image](https://github.com/kristipatishivani/VLSI-LAB-EXP-1/assets/161432255/a2ece9c5-3ea5-4656-ac14-51ae2f150460)
+![image](https://github.com/Bhavyaa369/VLSI-LAB-EXP-1/assets/161432255/a2ece9c5-3ea5-4656-ac14-51ae2f150460)
 
 VERILOG CODE
 ```
@@ -118,7 +118,7 @@ endmodule
 ```
 OUTPUT WAVEFORM
 
-![image](https://github.com/kristipatishivani/VLSI-LAB-EXP-1/assets/161432255/4bdf087c-428c-4822-bc46-c5e7dd254033)
+![image](https://github.com/Bhavyaa369/VLSI-LAB-EXP-1/assets/161432255/4bdf087c-428c-4822-bc46-c5e7dd254033)
 
 FULL SUBTRACTOR LOGIC DIAGRAM
 
@@ -148,11 +148,11 @@ endmodule
 ```
 OUTPUT WAVEFORM
 
-![image](https://github.com/kristipatishivani/VLSI-LAB-EXP-1/assets/161432255/bc8d00b2-5048-427d-bf2c-c02c3045914c)
+![image](https://github.com/Bhavyaa369/VLSI-LAB-EXP-1/assets/161432255/bc8d00b2-5048-427d-bf2c-c02c3045914c)
 
 RIPPLE CARRY ADDER LOGIC DIAGRAM
 
-![image](https://github.com/kristipatishivani/VLSI-LAB-EXP-1/assets/161432255/a99aff44-dfa3-4e7b-9da8-69196df7a695)
+![image](https://github.com/Bhavyaa369/VLSI-LAB-EXP-1/assets/161432255/a99aff44-dfa3-4e7b-9da8-69196df7a695)
 
 VERILOG CODE
 ```
@@ -186,7 +186,7 @@ endmodule
 OUTPUT WAVEFORM
 
 
-![image](https://github.com/kristipatishivani/VLSI-LAB-EXP-1/assets/161432255/6bf9e606-80cb-4def-8503-210f60b0fbd4)
+![image](https://github.com/Bhavyaa369/VLSI-LAB-EXP-1/assets/161432255/6bf9e606-80cb-4def-8503-210f60b0fbd4)
 
 RESULT:
 
